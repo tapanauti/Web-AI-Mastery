@@ -1,6 +1,3 @@
 [submodule "javascript-brush-up-kit"]
 	path = javascript-brush-up-kit
 	url = https://github.com/CompileZero/javascript-brush-up-kit.git
-[submodule "JS-For-Humans"]
-	path = JS-For-Humans
-	url = https://github.com/CompileZero/JS-For-Humans.git
