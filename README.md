@@ -2,11 +2,11 @@
 
 A Giant repo to master the Web & AI.
 
-* [JavaScript](/JS/README.md)
+* [JavaScript](./JS)
   
 * [Python](./Python)
 
-* [AI](./Artificial-Intelligence/README.md)
+* [AI](./Artificial-Intelligence)
 
 
-* [College Wiki](./College-Wiki/README.md)
+* [College Wiki](./College-Wiki)
