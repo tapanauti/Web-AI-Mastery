@@ -4,6 +4,3 @@
 [submodule "JS-For-Humans"]
 	path = JS-For-Humans
 	url = https://github.com/CompileZero/JS-For-Humans.git
-[submodule "Python-And-AI-For-Humans"]
-	path = Python-And-AI-For-Humans
-	url = https://github.com/CompileZero/Python-And-AI-For-Humans.git
