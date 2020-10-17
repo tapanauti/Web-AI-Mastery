@@ -4,7 +4,7 @@ A Giant repo to master the Web & AI.
 
 * [JavaScript](/JS/README.md)
   
-* [Python](./Python/README.md)
+* [Python](./Python)
 
 * [AI](./Artificial-Intelligence/README.md)
 
