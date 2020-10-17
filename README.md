@@ -1,6 +1,6 @@
 # Web-AI-Mastery
 
-A big repo to master the Web & AI.
+A Giant repo to master the Web & AI.
 
 * [JavaScript Explained](/JS-For-Humans/README.md)
 * [JavaScript Concepts](https://github.com/CompileZero/javascript-brush-up-kit)
