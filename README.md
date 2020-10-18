@@ -9,7 +9,7 @@ Helping you create a complete journey from a novice to an expert WEB & AI develo
 
 A Giant repo to master the Web & AI.
 
-* [JavaScript](./JS)
+* [JavaScript](./JS/README.md)
   
 * [Python](./Python)
 
