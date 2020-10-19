@@ -199,3 +199,31 @@ function wordCount(board, word) {
 
 
 ```
+
+Linkedin Post:
+CS Concepts - "Static Typing, Dynamic Typing, Strongly-Typed and Weakly-Typed" explained in 100 words:
+
+
+
+Quite a lot of people get confused between these terms and  don't really understand the difference.
+
+
+
+Static Typing & Dynamic Typing:
+
+
+
+JAVA Code - int x = 4;
+
+
+
+Here, the variable 'x' is assigned the type 'int'.
+
+
+
+Whenever the type of x is to be changed either manually or dynamically (during run-time), it will throw an error at compilation, stating that it is not allowed.
+
+
+
+
+
